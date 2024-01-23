@@ -8,7 +8,7 @@ function mostrarVentanaCompartir() {
 <h2>Compartir</h2>
 <button class="close-popad" onclick="cerrarVentanaCompartir()">X</button>
 </div>
-<input type="text" id="linkCompartir" value="https://cafecito.app/lilian" readonly>
+<input type="text" id="linkCompartir" value="https://lc.cx/VkQEfc" readonly>
 <button onclick="copiarLink()" style="background-color: #7c95f8;"> <i class="far fa-copy"></i> Copiar Link
 </button>
 <button onclick="compartirInstagram()" style="background-color: #e56969;"> <i class="fab fa-instagram"></i> Instagram Story
